@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **hm0976@srmist.edu.in
 - harshkushwaha159@gmail.com
-- Contact Me - 8340634626**
+- Contact Me @ 8340634626**
 
 - ⚡ My technical skills are **Problem solving, Coding, Python, C++, Data Structures, Mathematics.**
 
