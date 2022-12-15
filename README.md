@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Harsh</h1>
 <h3 align="center">A passionate Computer Engineer & programmer </h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/114282300/207834348-c3e59a15-a8b1-4a03-b167-6a79f802309e.png)">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0FXPsS1Xj_Mzo7mSuxOw9U&ust=1671186059713000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJito62z-_sCFQAAAAAdAAAAABAE">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Harsh8340&label=Profile%20views&color=0e75b6&style=flat" alt="Harsh8340" /> </p>
