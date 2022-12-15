@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Harsh</h1>
 <h3 align="center">A passionate Computer Engineer & programmer </h3>
 
-<img align="right" alt="Coding" src="https://camo.githubusercontent.com/d4fd0e2496199c890485eb47c5cf57b419d1de9a33e88a6b9087a6ee9062e591/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66312f65372f33342f66316537333466396361646538366665373337613961613430346164353637372e676966" data-canonical-src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" style="max-width: 53%; display: inline-block;" data-target="animated-image.originalImage">
+<img align="right" alt="Coding" src="https://camo.githubusercontent.com/d4fd0e2496199c890485eb47c5cf57b419d1de9a33e88a6b9087a6ee9062e591/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66312f65372f33342f66316537333466396361646538366665373337613961613430346164353637372e676966" data-canonical-src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" style="max-width: 30%; display: inline-block;" data-target="animated-image.originalImage">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Harsh8340&label=Profile%20views&color=0e75b6&style=flat" alt="Harsh8340" /> </p>
 
