@@ -1,6 +1,9 @@
 <h1 align="center">Hello 👋, I'm Harsh</h1>
 <h3 align="center">A passionate Computer Engineer & programmer </h3>
 
+<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/114282300/207834348-c3e59a15-a8b1-4a03-b167-6a79f802309e.png)">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Harsh8340&label=Profile%20views&color=0e75b6&style=flat" alt="Harsh8340" /> </p>
 
 - 📫 How to reach me **hm0976@srmist.edu.in
