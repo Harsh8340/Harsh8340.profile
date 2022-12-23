@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Harsh</h1>
 <h3 align="center">A passionate Computer Engineer & Programmer </h3>
 
-<img align="right" alt="Coding" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" style="max-width: 51%;">
+<img align="right" alt="Coding" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" style="max-width: 50%;">
 
 - 📫 How to reach me **hm0976@srmist.edu.in
 - harshkushwaha159@gmail.com
@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh8340&show_icons=true&locale=en" alt="harsh8340" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh8340&" alt="harsh8340" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh8340&" alt="hash8340" /></p>
